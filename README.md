@@ -1,6 +1,3 @@
-# proyectoFinMicrocredlCiber
-Proyecto final de microcredencial en python de un gestor de contraseñas cifradas
-
 # Gestor de Contraseñas en Python (CLI)
 
 Un gestor de contraseñas de línea de comandos (CLI) seguro, desarrollado en Python y respaldado por una base de datos SQLite. Este proyecto fue creado como Proyecto Final de Microcredencial para aplicar conceptos prácticos de criptografía, manejo de bases de datos y seguridad de la información.
